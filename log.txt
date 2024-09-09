@@ -1,0 +1,451 @@
+UserID: 5407170931 | Time: 2024-09-05 04:22:39.369635 | Command: /attack | Target: 20.198.76.220 | Port: 16632 | Time: 240
+UserID: 5407170931 | Time: 2024-09-05 04:38:23.481721 | Command: /attack | Target: 20.235.88.151 | Port: 21485 | Time: 240
+UserID: 5407170931 | Time: 2024-09-05 04:39:00.235333 | Command: /attack | Target: 20.235.88.151 | Port: 21485 | Time: 240
+Username: @Rajpop10m
+Target: 20.235.88.151
+Port: 21485
+Time: 240
+
+UserID: 5407170931 | Time: 2024-09-05 04:54:50.738373 | Command: /attack | Target: 20.204.179.82 | Port: 25717 | Time: 240
+Username: @Rajpop10m
+Target: 20.204.179.82
+Port: 25717
+Time: 240
+
+UserID: 5407170931 | Time: 2024-09-05 06:00:38.734912 | Command: /attack | Target: 20.198.105.234 | Port: 24446 | Time: 240
+UserID: 5407170931 | Time: 2024-09-05 06:00:38.734835 | Command: /attack | Target: 20.198.105.234 | Port: 24446 | Time: 240
+Username: @Rajpop10m
+Target: 20.198.105.234
+Port: 24446
+Time: 240
+
+Username: @Rajpop10m
+Target: 20.198.105.234
+Port: 24446
+Time: 240
+
+UserID: 5407170931 | Time: 2024-09-05 06:40:40.117109 | Command: /attack | Target: 20.198.107.154 | Port: 18207 | Time: 240
+UserID: 5407170931 | Time: 2024-09-05 06:40:40.197674 | Command: /attack | Target: 20.198.107.154 | Port: 18207 | Time: 240
+Username: @Rajpop10m
+Target: 20.198.107.154
+Port: 18207
+Time: 240
+
+UserID: 5407170931 | Time: 2024-09-05 07:39:46.492444 | Command: /attack | Target: 20.204.39.127 | Port: 19696 | Time: 280
+Username: @Rajpop10m
+Target: 20.204.39.127
+Port: 19696
+Time: 280
+
+UserID: 5407170931 | Time: 2024-09-05 08:09:31.797556 | Command: /attack | Target: 52.140.62.215 | Port: 22048 | Time: 300
+Username: @Rajpop10m
+Target: 52.140.62.215
+Port: 22048
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-05 08:56:57.894638 | Command: /attack | Target: 20.219.166.126 | Port: 17744 | Time: 300
+Username: @Rajpop10m
+Target: 20.219.166.126
+Port: 17744
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-05 09:03:08.817457 | Command: /attack | Target: 20.235.93.245 | Port: 27469 | Time: 300
+Username: @Rajpop10m
+Target: 20.235.93.245
+Port: 27469
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-05 09:26:45.204760 | Command: /attack | Target: 20.204.49.111 | Port: 19468 | Time: 300
+Username: @Rajpop10m
+Target: 20.204.49.111
+Port: 19468
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-05 09:33:20.685768 | Command: /attack | Target: 4.213.64.184 | Port: 23420 | Time: 240
+Username: @Rajpop10m
+Target: 4.213.64.184
+Port: 23420
+Time: 240
+
+UserID: 5407170931 | Time: 2024-09-05 09:51:49.401771 | Command: /attack | Target: 20.235.91.106 | Port: 28356 | Time: 240
+UserID: 5407170931 | Time: 2024-09-05 09:51:49.401687 | Command: /attack | Target: 4.213.64.184 | Port: 23420 | Time: 240
+Username: @Rajpop10m
+Target: 4.213.64.184
+Port: 23420
+Time: 240
+
+Username: @Rajpop10m
+Target: 20.235.91.106
+Port: 28356
+Time: 240
+
+UserID: 5407170931 | Time: 2024-09-05 10:31:29.206596 | Command: /attack | Target: 20.198.104.148 | Port: 10868 | Time: 300
+Username: @Rajpop10m
+Target: 20.198.104.148
+Port: 10868
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-05 11:37:44.815609 | Command: /attack | Target: 4.213.65.47 | Port: 28468 | Time: 300
+Username: @Rajpop10m
+Target: 4.213.65.47
+Port: 28468
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-05 14:14:46.256711 | Command: /attack | Target: 52.172.26.232 | Port: 19983 | Time: 300
+Username: @Rajpop10m
+Target: 52.172.26.232
+Port: 19983
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-05 15:00:38.941073 | Command: /attack | Target: 20.204.17.82 | Port: 15103 | Time: 240
+Username: @Rohitpopstore
+Target: 20.204.17.82
+Port: 15103
+Time: 240
+
+UserID: 6371870828 | Time: 2024-09-05 16:01:31.399272 | Command: /attack | Target: 20.204.39.173 | Port: 26194 | Time: 300
+Username: @Rohitpopstore
+Target: 20.204.39.173
+Port: 26194
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-05 16:24:54.703670 | Command: /attack | Target: 20.198.72.178 | Port: 29828 | Time: 240
+Username: @Rohitpopstore
+Target: 20.198.72.178
+Port: 29828
+Time: 240
+
+UserID: 5407170931 | Time: 2024-09-06 04:14:07.452754 | Command: /attack | Target: 20.219.79.58 | Port: 28096 | Time: 300
+Username: @Rajpop10m
+Target: 20.219.79.58
+Port: 28096
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 04:17:46.784886 | Command: /attack | Target: 20.219.79.58 | Port: 28096 | Time: 120
+Username: @Rajpop10m
+Target: 20.219.79.58
+Port: 28096
+Time: 120
+
+UserID: 5407170931 | Time: 2024-09-06 04:42:13.510519 | Command: /attack | Target: 20.235.93.116 | Port: 12065 | Time: 240
+Username: @Rajpop10m
+Target: 20.235.93.116
+Port: 12065
+Time: 240
+
+UserID: 5407170931 | Time: 2024-09-06 04:51:03.531026 | Command: /attack | Target: 20.198.104.226 | Port: 22914 | Time: 300
+UserID: 5407170931 | Time: 2024-09-06 04:51:27.417786 | Command: /attack | Target: 20.198.104.226 | Port: 22914 | Time: 300
+Username: @Rajpop10m
+Target: 20.198.104.226
+Port: 22914
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 04:59:46.385374 | Command: /attack | Target: 20.219.6.21 | Port: 28113 | Time: 300
+Username: @Rajpop10m
+Target: 20.219.6.21
+Port: 28113
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-06 05:04:28.041137 | Command: /attack | Target: 20.198.73.231 | Port: 17407 | Time: 300
+Username: @Rohitpopstore
+Target: 20.198.73.231
+Port: 17407
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 05:24:37.685913 | Command: /attack | Target: 4.213.64.206 | Port: 15680 | Time: 300
+Username: @Rajpop10m
+Target: 4.213.64.206
+Port: 15680
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-06 05:35:46.433080 | Command: /attack | Target: 20.204.18.144 | Port: 23290 | Time: 300
+Username: @Rohitpopstore
+Target: 20.204.18.144
+Port: 23290
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-06 05:56:16.604857 | Command: /attack | Target: 20.235.95.251 | Port: 22487 | Time: 300
+Username: @Rohitpopstore
+Target: 20.235.95.251
+Port: 22487
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 06:04:10.646599 | Command: /attack | Target: 20.204.88.88 | Port: 14564 | Time: 300
+Username: @Rajpop10m
+Target: 20.204.88.88
+Port: 14564
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-06 06:14:30.174169 | Command: /attack | Target: 4.213.65.153 | Port: 13578 | Time: 300
+Username: @Rohitpopstore
+Target: 4.213.65.153
+Port: 13578
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-06 06:26:40.377343 | Command: /attack | Target: 20.219.141.93 | Port: 21951 | Time: 300
+Username: @Rohitpopstore
+Target: 20.219.141.93
+Port: 21951
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-06 06:54:12.292890 | Command: /attack | Target: 4.213.64.186 | Port: 23963 | Time: 300
+Username: @Rohitpopstore
+Target: 4.213.64.186
+Port: 23963
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 06:57:25.073670 | Command: /attack | Target: 20.235.95.133 | Port: 25094 | Time: 300
+Username: @Rajpop10m
+Target: 20.235.95.133
+Port: 25094
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-06 07:01:38.725364 | Command: /attack | Target: 20.198.76.208 | Port: 28854 | Time: 300
+Username: @Rohitpopstore
+Target: 20.198.76.208
+Port: 28854
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 07:06:59.446990 | Command: /attack | Target: 20.204.148.64 | Port: 21101 | Time: 300
+Username: @Rajpop10m
+Target: 20.204.148.64
+Port: 21101
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-06 07:16:49.014341 | Command: /attack | Target: 13.71.66.41 | Port: 14829 | Time: 300
+Username: @Rohitpopstore
+Target: 13.71.66.41
+Port: 14829
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-06 07:20:36.767719 | Command: /attack | Target: 20.219.163.132 | Port: 14779 | Time: 30
+Username: @Rohitpopstore
+Target: 20.219.163.132
+Port: 14779
+Time: 30
+
+UserID: 6371870828 | Time: 2024-09-06 07:24:23.620154 | Command: /attack | Target: 20.235.95.34 | Port: 22614 | Time: 300
+Username: @Rohitpopstore
+Target: 20.235.95.34
+Port: 22614
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 07:25:28.767317 | Command: /attack | Target: 20.219.161.193 | Port: 14913 | Time: 300
+Username: @Rajpop10m
+Target: 20.219.161.193
+Port: 14913
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 07:25:48.583640 | Command: /attack | Target: 20.219.161.193 | Port: 14913 | Time: 300
+Username: @Rajpop10m
+Target: 20.219.161.193
+Port: 14913
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 07:44:56.525687 | Command: /attack | Target: 20.235.95.67 | Port: 29314 | Time: 300
+Username: @Rajpop10m
+Target: 20.235.95.67
+Port: 29314
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 07:45:08.875266 | Command: /attack | Target: 20.235.95.67 | Port: 29314 | Time: 300
+Username: @Rajpop10m
+Target: 20.235.95.67
+Port: 29314
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 07:55:04.219726 | Command: /attack | Target: 20.198.78.217 | Port: 13783 | Time: 300
+Username: @Rajpop10m
+Target: 20.198.78.217
+Port: 13783
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 08:08:45.084631 | Command: /attack | Target: 4.213.65.190 | Port: 17708 | Time: 300
+Username: @Rajpop10m
+Target: 4.213.65.190
+Port: 17708
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 09:14:46.296731 | Command: /attack | Target: 4.213.64.222 | Port: 26122 | Time: 249
+Username: @Raj993614
+Target: 4.213.64.222
+Port: 26122
+Time: 249
+
+UserID: 5407170931 | Time: 2024-09-06 09:25:42.709158 | Command: /attack | Target: 4.213.64.222 | Port: 26122 | Time: 249
+Username: @Raj993614
+Target: 4.213.64.222
+Port: 26122
+Time: 249
+
+UserID: 5407170931 | Time: 2024-09-06 09:26:45.167152 | Command: /attack | Target: 4.213.64.222 | Port: 26122 | Time: 249
+Username: @Raj993614
+Target: 4.213.64.222
+Port: 26122
+Time: 249
+
+UserID: 5407170931 | Time: 2024-09-06 09:34:03.296035 | Command: /attack | Target: 4.213.64.222 | Port: 26122 | Time: 249
+Username: @Raj993614
+Target: 4.213.64.222
+Port: 26122
+Time: 249
+
+UserID: 5407170931 | Time: 2024-09-06 09:39:05.278219 | Command: /attack | Target: 20.235.95.251 | Port: 22366 | Time: 300
+Username: @Raj993614
+Target: 20.235.95.251
+Port: 22366
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-06 10:12:30.344150 | Command: /attack | Target: 20.235.95.34 | Port: 22614 | Time: 300
+Username: @Rohitpopstore
+Target: 20.235.95.34
+Port: 22614
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 10:34:01.590401 | Command: /attack | Target: 20.204.88.244 | Port: 13286 | Time: 300
+Username: @Raj993614
+Target: 20.204.88.244
+Port: 13286
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 10:56:58.984868 | Command: /attack | Target: 4.213.65.142 | Port: 12745 | Time: 300
+Username: @Raj993614
+Target: 4.213.65.142
+Port: 12745
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 11:39:03.210301 | Command: /attack | Target: 20.204.191.218 | Port: 10139 | Time: 300
+Username: @Raj993614
+Target: 20.204.191.218
+Port: 10139
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-06 12:11:50.934385 | Command: /attack | Target: 20.204.16.234 | Port: 25543 | Time: 300
+Username: @Raj993614
+Target: 20.204.16.234
+Port: 25543
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 03:55:42.608483 | Command: /attack | Target: 20.204.17.15 | Port: 14713 | Time: 300
+Username: @Raj993614
+Target: 20.204.17.15
+Port: 14713
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-07 04:18:43.711579 | Command: /attack | Target: 4.247.21.115 | Port: 10076 | Time: 300
+Username: @Rohitpopstore
+Target: 4.247.21.115
+Port: 10076
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 04:34:36.844229 | Command: /attack | Target: 20.198.77.70 | Port: 27958 | Time: 300
+Username: @Raj993614
+Target: 20.198.77.70
+Port: 27958
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 05:13:57.717240 | Command: /attack | Target: 20.219.164.149 | Port: 20266 | Time: 300
+Username: @Raj993614
+Target: 20.219.164.149
+Port: 20266
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 05:17:42.134334 | Command: /attack | Target: 20.204.88.100 | Port: 25295 | Time: 300
+Username: @Raj993614
+Target: 20.204.88.100
+Port: 25295
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 05:34:34.853205 | Command: /attack | Target: 20.219.21.140 | Port: 15989 | Time: 300
+Username: @Raj993614
+Target: 20.219.21.140
+Port: 15989
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 06:41:23.661650 | Command: /attack | Target: 20.235.88.114 | Port: 20612 | Time: 300
+Username: @Raj993614
+Target: 20.235.88.114
+Port: 20612
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 08:01:19.920380 | Command: /attack | Target: 20.235.88.177 | Port: 15391 | Time: 300
+UserID: 5407170931 | Time: 2024-09-07 08:32:11.631705 | Command: /attack | Target: 4.213.68.12 | Port: 27306 | Time: 300
+Username: @Raj993614
+Target: 4.213.68.12
+Port: 27306
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 09:17:33.684382 | Command: /attack | Target: 4.213.64.123 | Port: 29117 | Time: 300
+Username: @Raj993614
+Target: 4.213.64.123
+Port: 29117
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 09:43:16.894723 | Command: /attack | Target: 20.204.181.19 | Port: 11830 | Time: 300
+Username: @Raj993614
+Target: 20.204.181.19
+Port: 11830
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 10:09:34.939776 | Command: /attack | Target: 20.204.39.136 | Port: 22235 | Time: 300
+Username: @Raj993614
+Target: 20.204.39.136
+Port: 22235
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 10:35:28.397979 | Command: /attack | Target: 20.235.90.0 | Port: 24495 | Time: 300
+UserID: 5407170931 | Time: 2024-09-07 10:40:38.557146 | Command: /attack | Target: 20.235.93.241 | Port: 12711 | Time: 300
+Username: @Raj993614
+Target: 20.235.93.241
+Port: 12711
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-07 10:48:20.675685 | Command: /attack | Target: 20.235.93.241 | Port: 12711 | Time: 500
+UserID: 5407170931 | Time: 2024-09-07 10:48:20.829579 | Command: /attack | Target: 20.235.93.241 | Port: 12711 | Time: 500
+Username: @Raj993614
+Target: 20.235.93.241
+Port: 12711
+Time: 500
+
+UserID: 5407170931 | Time: 2024-09-07 11:04:39.668769 | Command: /attack | Target: 20.204.148.249 | Port: 23247 | Time: 300
+Username: @Raj993614
+Target: 20.204.148.249
+Port: 23247
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-08 04:06:26.978603 | Command: /attack | Target: 4.213.64.248 | Port: 26927 | Time: 300
+Username: @Raj993614
+Target: 4.213.64.248
+Port: 26927
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-08 04:16:26.103176 | Command: /attack | Target: 20.235.149.170 | Port: 23915 | Time: 300
+Username: @Rohitpopstore
+Target: 20.235.149.170
+Port: 23915
+Time: 300
+
+UserID: 6371870828 | Time: 2024-09-08 05:07:47.049410 | Command: /attack | Target: 20.235.149.170 | Port: 23915 | Time: 300
+Username: @Rohitpopstore
+Target: 20.235.149.170
+Port: 23915
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-08 05:11:22.280836 | Command: /attack | Target: 20.235.95.72 | Port: 21306 | Time: 300
+Username: @Raj993614
+Target: 20.235.95.72
+Port: 21306
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-08 05:30:52.041398 | Command: /attack | Target: 4.247.17.143 | Port: 18930 | Time: 300
+Username: @Raj993614
+Target: 4.247.17.143
+Port: 18930
+Time: 300
+
+UserID: 5407170931 | Time: 2024-09-08 06:31:18.500287 | Command: /attack | Target: 20.235.93.131 | Port: 22496 | Time: 300
+Username: @Raj993614
+Target: 20.235.93.131
+Port: 22496
+Time: 300
+
